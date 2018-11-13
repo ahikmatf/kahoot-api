@@ -1,0 +1,14 @@
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\bin\Debug\netcoreapp2.1\kahoot-api.deps.json
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\bin\Debug\netcoreapp2.1\kahoot-api.runtimeconfig.json
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\bin\Debug\netcoreapp2.1\kahoot-api.runtimeconfig.dev.json
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\bin\Debug\netcoreapp2.1\kahoot-api.dll
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\bin\Debug\netcoreapp2.1\kahoot-api.pdb
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\obj\Debug\netcoreapp2.1\kahoot-api.csprojAssemblyReference.cache
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\obj\Debug\netcoreapp2.1\kahoot-api.csproj.CoreCompileInputs.cache
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\obj\Debug\netcoreapp2.1\kahoot-api.RazorAssemblyInfo.cache
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\obj\Debug\netcoreapp2.1\kahoot-api.RazorAssemblyInfo.cs
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\obj\Debug\netcoreapp2.1\kahoot-api.AssemblyInfoInputs.cache
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\obj\Debug\netcoreapp2.1\kahoot-api.AssemblyInfo.cs
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\obj\Debug\netcoreapp2.1\kahoot-api.RazorTargetAssemblyInfo.cache
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\obj\Debug\netcoreapp2.1\kahoot-api.dll
+C:\Users\devmakers\Documents\hikmat\bootcamp-project\kahoot-api\obj\Debug\netcoreapp2.1\kahoot-api.pdb

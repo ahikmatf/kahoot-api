@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace kahoot_api.Controllers
 {
     [Route("api/[controller]")]
+    [ApiController]
     public class ValuesController : Controller
     {
         // GET api/values
